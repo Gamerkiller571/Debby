@@ -23,7 +23,7 @@ $ pip2 install futures
 #### Run script
 ```bash
 $ cd Debby
-$ python2 Debby.py
+$ python2 Debby.so
 ```
 #### MY SOCIAL MEDIA
 
